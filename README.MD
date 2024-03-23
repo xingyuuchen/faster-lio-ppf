@@ -3,9 +3,7 @@
 This is the code repo of integrating PPF (Plane Pre-Fitting and Skeleton Tracking) into [FasterLIO](https://github.com/gaoxiang12/faster-lio).
 
 
-The PPF is introduced by our paper (IROS 2023):
-
-[LIO-PPF: Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking](https://ieeexplore.ieee.org/abstract/document/10341524/).
+The PPF is introduced by our paper "[LIO-PPF: Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking](https://ieeexplore.ieee.org/abstract/document/10341524/)"  (**IROS 2023**).
 
 ### Quick Start
 
